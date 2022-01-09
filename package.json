@@ -1,0 +1,27 @@
+{
+  "name": "aditya-games-modul",
+  "version": "1.0.1",
+  "description": "ini projek aja",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "aditya": "nodemon server.js"
+  },
+  "keywords": [
+    "project",
+    "node",
+    "js",
+    "basic",
+    "node",
+    "js",
+    "dea",
+    "module"
+  ],
+  "author": "https://www.instagram.com/aditiaph",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "rupiah-format": "^1.0.0"
+  }
+}
